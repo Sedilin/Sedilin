@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently Studying Software Technology Engineering<br>💼 Student Software Developer<br>💡 Currently developing an IoT Application for Plant Control<br>🖥️ Proficient in C#, Java and JavaScript
+📚 BEng Software Technology Development<br>💼 Student Software Developer<br>💡 Currently working on Anomaly Detection mechanism for product data<br>🖥️ Proficient in Java and Spring Framework
 
 
 ## 🌐 Socials:
