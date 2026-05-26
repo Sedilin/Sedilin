@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 BEng Software Technology Development<br>💼 Student Software Developer<br>💡 Currently working on Anomaly Detection mechanism for product data<br>🖥️ Proficient in Java and Spring Framework
+📚 BEng Software Technology Development<br>💼 Associate Software Developer<br>🖥️ Proficient in Java and Spring Framework
 
 
 ## 🌐 Socials:
